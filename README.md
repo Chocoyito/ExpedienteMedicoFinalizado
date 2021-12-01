@@ -9,4 +9,8 @@ Considero que era necesario mantener dos repositorios diferentes para no sobrees
 
 https://github.com/Chocoyito/ExpedienteMedico
 
+Antes de finalizar quiero darle créditos al creador de lo íconos que implementa este proyecto colocando un enlace hacia su perfil.
+
+https://www.flaticon.com/authors/pixel-perfect
+
 Sin más que añadir espero que este repositorio cumpla con las expectativas para quienes lo vean como también lo hizo para mí.
