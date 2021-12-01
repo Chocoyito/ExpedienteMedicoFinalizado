@@ -13,4 +13,4 @@ Antes de finalizar hay que dar créditos al creador de lo íconos que implementa
 
 https://www.flaticon.com/authors/pixel-perfect
 
-Sin más que añadir espero que este repositorio cumpla con las expectativas para quienes lo vean como también lo hizo para mí y mis compañeros.
+Sin más que añadir espero que este repositorio cumpla con las expectativas para quienes lo vean como también lo hizo para mis compañeros.
